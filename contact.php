@@ -1,0 +1,67 @@
+<?php
+include "template_page_beginning.php";
+?>
+<h1>Kontakt</h1>
+<p>Fuer Fragen zu LIPS wenden Sie sich bitte an:</p>
+<ul>
+<li>Webmaster: grumble_lips@sigaint.org (plain text) / adminlips@vfemail.net (verschluesselt)</li>
+<li>Projekt: peter.straessle@sigaint.org</li>
+</ul>
+<p>Hier der Public-Key fuer adminlips@vfemail.net:</p>
+<pre>
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+85RRTIkl6nX0GLI=
+=XVl1
+-----END PGP PUBLIC KEY BLOCK-----
+
+</pre>
+<?php
+include "template_page_end.php";
+?>
